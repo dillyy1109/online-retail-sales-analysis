@@ -185,9 +185,21 @@ online-retail-sales-analysis/
 
 ![Top Products](top_products.png)
 
+### Revenue by Year
+
+![Revenue by Year](revenue_by_year.png)
+
 ### Revenue by Month
 
 ![Revenue by Month](revenue_by_month.png)
+
+### Revenue by Day
+
+![Revenue by Day of the Week](revenue_by_day.png)
+
+### Revenue by Hour
+
+![Revenue by Hour of the Day](revenue_by_hour.png)
 
 ### Top Customers
 
