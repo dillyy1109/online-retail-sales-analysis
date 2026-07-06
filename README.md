@@ -205,6 +205,10 @@ online-retail-sales-analysis/
 
 ![Top Customers](top_customers.png)
 
+### Revenue Sjare of Top Customer
+
+![Revenue Share of Top Customer](customer_share.png)
+
 ---
 
 ## Future Improvements
