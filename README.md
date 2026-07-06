@@ -183,15 +183,15 @@ online-retail-sales-analysis/
 
 ### Top Revenue-Generating Products
 
-![Top Products](images/top_products.png)
+![Top Products](top_products.png)
 
 ### Revenue by Month
 
-![Revenue by Month](images/revenue_by_month.png)
+![Revenue by Month](revenue_by_month.png)
 
 ### Top Customers
 
-![Top Customers](images/top_customers.png)
+![Top Customers](top_customers.png)
 
 ---
 
