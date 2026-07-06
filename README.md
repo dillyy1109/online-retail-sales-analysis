@@ -179,7 +179,7 @@ online-retail-sales-analysis/
 
 ### Top International Markets
 
-![Top Countries](images/top_countries.png)
+![Top Countries](top_countries.png)
 
 ### Top Revenue-Generating Products
 
